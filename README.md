@@ -188,7 +188,7 @@
     - Autonomous Operations Capability: Self-optimizing systems requiring minimal human intervention
  
 
-  flowchart LR
+```flowchart LR
 
 %% Foundational Capabilities
 DF[Data Foundation<br/>(Quality, Integration, Lineage)]
@@ -228,4 +228,6 @@ BI --> RT
 RT --> AO
 MO --> AO
 DG --> AO
+
+```
 
