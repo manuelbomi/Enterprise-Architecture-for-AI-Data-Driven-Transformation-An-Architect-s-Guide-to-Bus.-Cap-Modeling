@@ -37,6 +37,32 @@
 
 ##### The TOGAF Architecture Development Method (ADM) provides a proven cyclical framework that can be specifically adapted for data and AI transformation programs:
 
-![Image](https://github.com/user-attachments/assets/4f398d15-4d4f-4414-8f6a-cac426d051d3)
+```python
+flowchart LR
+
+%% ADM Cycle for AI / Data
+
+P[Preliminary<br/>AI/Data Vision & Scope]
+A[A: Architecture Vision<br/>AI Strategy & Value]
+B[B: Business Architecture<br/>AI-Enabled Capabilities]
+C[C: Information Systems Architecture<br/>Data, Analytics & AI]
+D[D: Technology Architecture<br/>Platforms & Infrastructure]
+E[E: Opportunities & Solutions<br/>AI Use Cases]
+F[F: Migration Planning<br/>MLOps & Data Pipelines]
+G[G: Implementation Governance<br/>Model Factory & Delivery]
+H[H: Architecture Change Management<br/>Continuous AI Evolution]
+
+%% Cyclical Flow
+P --> A --> B --> C --> D --> E --> F --> G --> H --> A
+
+%% Central Governance Overlay
+GOV[AI Governance & Model Lifecycle Management]
+GOV --- B
+GOV --- C
+GOV --- D
+GOV --- G
+GOV --- H
+
+```
 
 *Figure 2: Modified TOGAF ADM cycle optimized for AI/ML capability development*
