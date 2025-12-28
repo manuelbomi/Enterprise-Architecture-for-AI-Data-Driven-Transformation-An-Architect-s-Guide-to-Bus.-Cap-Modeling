@@ -306,6 +306,7 @@ Expected ROI: $8.7M annually from reduced downtime
 | **Year 3: Enhancements** | $0.9M | $2.7M | **+$1.8M**  | Lower enhancement costs (-67%) |
 | **3-Year TCO** | **$6.5M** | **$9.8M** | **+$3.3M saved**  | **50% higher TCO without EA** |
 | **Business Value Generated** | **$22.4M** | **$14.1M** | **+$8.3M value**  | **59% more value with EA** |
+*Table 1: Financial analysis demonstrating long-term EA value proposition*
 
 #### Key Financial Metrics
 - **TCO Reduction:** 34% lower total cost over 3 years
