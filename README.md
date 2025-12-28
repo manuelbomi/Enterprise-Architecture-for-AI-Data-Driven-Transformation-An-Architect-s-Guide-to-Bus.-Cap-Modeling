@@ -132,4 +132,51 @@
 | Technology (Builder) | Physical data model | Technology functions | Platform deployment | Technology roles | Execution timing | Technical specifications |
 | Detailed (Subcontractor) | Data definition | Program logic | Network addresses | User identities | Control flow | Rule specification |
 
+## Zachman Framework Matrix
+
+| Perspective | Data (What) | Function (How) | Network (Where) | People (Who) | Time (When) | Motivation (Why) |
+|-------------|-------------|----------------|-----------------|--------------|-------------|------------------|
+| **Scope (Planner)** | Business entities for prediction | ML use cases | Organizational scope | Stakeholders | Business events | Business objectives |
+| **Business (Owner)** | Conceptual data model | Business processes | Business locations | Business roles | Business schedule | Business strategy |
+| **System (Designer)** | Logical data model | Application functions | System topology | System roles | Processing cycle | System requirements |
+| **Technology (Builder)** | Physical data model | Technology functions | Platform deployment | Technology roles | Execution timing | Technical specifications |
+| **Detailed (Subcontractor)** | Data definition | Program logic | Network addresses | User identities | Control flow | Rule specification |
+
+# Zachman Framework for Enterprise Architecture
+
+## The Complete Framework Matrix
+
+| Row | Perspective | Data (What) | Function (How) | Network (Where) | People (Who) | Time (When) | Motivation (Why) |
+|-----|-------------|-------------|----------------|-----------------|--------------|-------------|------------------|
+| 1 | **Scope (Planner)**<br>*Contextual* | Business entities for prediction | ML use cases | Organizational scope | Stakeholders | Business events | Business objectives |
+| 2 | **Business (Owner)**<br>*Conceptual* | Conceptual data model | Business processes | Business locations | Business roles | Business schedule | Business strategy |
+| 3 | **System (Designer)**<br>*Logical* | Logical data model | Application functions | System topology | System roles | Processing cycle | System requirements |
+| 4 | **Technology (Builder)**<br>*Physical* | Physical data model | Technology functions | Platform deployment | Technology roles | Execution timing | Technical specifications |
+| 5 | **Detailed (Subcontractor)**<br>*As-Built* | Data definition | Program logic | Network addresses | User identities | Control flow | Rule specification |
+| 6 | **Functioning Enterprise**<br>*Instance* | Actual data | Actual processes | Actual locations | Actual people | Actual times | Actual reasons |
+
+## Framework Principles
+1. **Comprehensive:** Covers all aspects of enterprise architecture
+2. **Multi-perspective:** Addresses different stakeholder viewpoints
+3. **Abstraction layers:** From contextual to detailed implementation
+4. **Interrelated:** All cells must be consistent and aligned
+
+## Zachman Framework Applied to AI/Data Platform
+
+### Enterprise Architecture Framework
+
+| Perspective | Data (What)<br>*(AI/Data Context)* | Function (How)<br>*(AI/Data Context)* | Network (Where)<br>*(AI/Data Context)* | People (Who)<br>*(AI/Data Context)* |
+|-------------|-------------------------------------|---------------------------------------|----------------------------------------|-------------------------------------|
+| **Scope**<br>(Planner) | • Business entities (Customers, Products)<br>• Prediction targets | • ML use cases (Fraud detection, Churn prediction) | • Organizational scope (Global vs Regional) | • Stakeholders (Business units, Executives) |
+| **Business**<br>(Owner) | • Conceptual data models (Entity relationships) | • Business processes (Data workflows, Approval flows) | • Business locations (HQ, Regional offices) | • Business roles (Data owners, Analysts) |
+| **System**<br>(Designer) | • Logical data models (Normalized schemas) | • Application functions (APIs, Services, ML pipelines) | • System topology (Clusters, Zones, Regions) | • System roles (Service accounts, API users) |
+| **Technology**<br>(Builder) | • Physical data models (Tables, Columns, Indexes) | • Technology functions (Spark jobs, dbt models, API endpoints) | • Platform deployment (AWS, Azure, Databricks) | • Technology roles (IAM roles, Service principals) |
+| **Detailed**<br>(Subcontractor) | • Data definitions (DDL scripts, Schema files) | • Program logic (Python code, SQL queries) | • Network addresses (IPs, DNS, VPCs) | • User identities (Service accounts, API keys) |
+
+### Framework Application Example
+- **Data (What) Column:** Tracks data evolution from business concepts → physical implementation
+- **Function (How) Column:** Shows transformation from business needs → technical solutions
+- **Network (Where) Column:** Maps from organizational scope → cloud infrastructure
+- **People (Who) Column:** Identifies stakeholders → system users → technical identities
+
 
