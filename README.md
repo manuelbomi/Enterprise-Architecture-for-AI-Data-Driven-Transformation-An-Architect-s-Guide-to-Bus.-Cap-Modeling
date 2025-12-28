@@ -13,4 +13,30 @@
 
 ![Image](https://github.com/user-attachments/assets/6a834146-5abd-4d5f-b3b8-903b3a89f229)
 
-*Figure 1: Hierarchical decomposition of AI/Data capabilities showing strategic alignment*
+---
+
+### 1.2 Why Capability Modeling is Non-Negotiable for AI Success
+
+##### Organizations that bypass structured capability modeling for AI/ML initiatives frequently encounter:
+
+- Siloed solutions that cannot scale across business units
+
+- Redundant investments in overlapping technology stacks
+
+- Misalignment between data science experiments and business value streams
+
+- Technical debt accumulation from poorly integrated ML pipelines
+
+- Governance gaps in model lifecycle management and compliance
+
+---
+
+## 2. Integrating Business Capability Models with Enterprise Architecture Frameworks
+
+### 2.1 TOGAF ADM Enhanced for AI/ML Initiatives
+
+##### The TOGAF Architecture Development Method (ADM) provides a proven cyclical framework that can be specifically adapted for data and AI transformation programs:
+
+![Image](https://github.com/user-attachments/assets/4f398d15-4d4f-4414-8f6a-cac426d051d3)
+
+*Figure 2: Modified TOGAF ADM cycle optimized for AI/ML capability development*
