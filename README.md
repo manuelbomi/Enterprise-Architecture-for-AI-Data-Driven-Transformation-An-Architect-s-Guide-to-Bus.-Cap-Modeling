@@ -250,7 +250,9 @@ DG --> AO
 - Map technology portfolio to capability requirements
 
 
-### <ins>GAP ANALYSIS RESULTS - Predictive Maintenance Capability</ins>
+#### <ins>GAP ANALYSIS RESULTS - Predictive Maintenance Capability</ins>
+
+```python
 
 │ Current State (2.8/5.0)                 │ Target State (4.5/5.0)              │
 ├─────────────────────────────────────────┼─────────────────────────────────────┤
@@ -263,4 +265,6 @@ DG --> AO
 
 Investment Required: $2.4M over 18 months
 Expected ROI: $8.7M annually from reduced downtime
+
+```
 
