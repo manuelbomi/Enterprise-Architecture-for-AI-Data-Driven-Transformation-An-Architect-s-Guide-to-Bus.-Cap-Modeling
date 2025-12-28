@@ -118,5 +118,6 @@ GOV --- G
 GOV --- H
 
 ```
+![Image](https://github.com/user-attachments/assets/38caf9aa-41cc-4575-b4d2-a07db08371a3)
 
 *Figure 2: Modified TOGAF ADM cycle optimized for AI/ML capability development*
