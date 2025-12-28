@@ -367,5 +367,49 @@ MLOps Capability Stack:
 
 ![Image](https://github.com/user-attachments/assets/6b6e57f1-cd39-40e4-90c8-d7b1bb4e4adb)
 
-*Figure 7: Comprehensive MLOps architecture enabling enterprise-scale AI*
+---
+
+### 5.2 GPU & Specialized Hardware Strategy
+
+#### Advanced AI workloads require deliberate hardware capability planning:
+
+- Capability: Inference Latency Optimization
+
+    - Requirements: <100ms p95 latency for real-time applications
+
+    - Architecture Decision: Edge GPU deployment vs cloud inference endpoints
+
+    - Trade-offs: Cost vs performance vs maintainability
+
+- Capability: Training Acceleration
+
+    - Requirements: Model training within business cadence (daily/weekly)
+
+    - Architecture Decision: Elastic GPU clusters with spot instances
+
+    - Cost Optimization: Auto-scaling based on queue depth
+ 
+---
+ 
+### 5.3 Ethical AI & Governance Capabilities
+
+#### Modern enterprises must institutionalize ethical AI practices:
+
+```python
+AI Governance Framework:
+  - Fairness & Bias Detection:
+    - Pre-training data assessment
+    - Post-deployment bias monitoring
+    - Demographic parity metrics
+  
+  - Explainability & Interpretability:
+    - Model-agnostic explanation methods
+    - Business-user understandable reports
+    - Regulatory compliance documentation
+  
+  - Transparency & Auditability:
+    - Complete model lineage tracking
+    - Decision log retention policies
+    - Third-party audit readiness
+```
 
