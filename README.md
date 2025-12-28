@@ -145,13 +145,13 @@
 
 ### Enterprise Architecture Framework
 
-| Perspective | Data (What)<br>*(AI/Data Context)* | Function (How)<br>*(AI/Data Context)* | Network (Where)<br>*(AI/Data Context)* | People (Who)<br>*(AI/Data Context)* |
-|-------------|-------------------------------------|---------------------------------------|----------------------------------------|-------------------------------------|
-| **Scope**<br>(Planner) | • Business entities (Customers, Products)<br>• Prediction targets | • ML use cases (Fraud detection, Churn prediction) | • Organizational scope (Global vs Regional) | • Stakeholders (Business units, Executives) |
-| **Business**<br>(Owner) | • Conceptual data models (Entity relationships) | • Business processes (Data workflows, Approval flows) | • Business locations (HQ, Regional offices) | • Business roles (Data owners, Analysts) |
-| **System**<br>(Designer) | • Logical data models (Normalized schemas) | • Application functions (APIs, Services, ML pipelines) | • System topology (Clusters, Zones, Regions) | • System roles (Service accounts, API users) |
-| **Technology**<br>(Builder) | • Physical data models (Tables, Columns, Indexes) | • Technology functions (Spark jobs, dbt models, API endpoints) | • Platform deployment (AWS, Azure, Databricks) | • Technology roles (IAM roles, Service principals) |
-| **Detailed**<br>(Subcontractor) | • Data definitions (DDL scripts, Schema files) | • Program logic (Python code, SQL queries) | • Network addresses (IPs, DNS, VPCs) | • User identities (Service accounts, API keys) |
+| Perspective | Data (What)<br>*(AI/Data Context)* | Function (How)<br>*(AI/Data Context)* | Network (Where)<br>*(AI/Data Context)* | People (Who)<br>*(AI/Data Context)* |Time (When) | Motivation (Why) |
+|-------------|-------------------------------------|---------------------------------------|----------------------------------------|-------------------------------------|-------------|------------------|
+| **Scope**<br>(Planner) | • Business entities (Customers, Products)<br>• Prediction targets | • ML use cases (Fraud detection, Churn prediction) | • Organizational scope (Global vs Regional) | • Stakeholders (Business units, Executives) |Business events | Business objectives |
+| **Business**<br>(Owner) | • Conceptual data models (Entity relationships) | • Business processes (Data workflows, Approval flows) | • Business locations (HQ, Regional offices) | • Business roles (Data owners, Analysts) | Business schedule | Business strategy |
+| **System**<br>(Designer) | • Logical data models (Normalized schemas) | • Application functions (APIs, Services, ML pipelines) | • System topology (Clusters, Zones, Regions) | • System roles (Service accounts, API users) | Processing cycle | System requirements |
+| **Technology**<br>(Builder) | • Physical data models (Tables, Columns, Indexes) | • Technology functions (Spark jobs, dbt models, API endpoints) | • Platform deployment (AWS, Azure, Databricks) | • Technology roles (IAM roles, Service principals) |Execution timing | Technical specifications |
+| **Detailed**<br>(Subcontractor) | • Data definitions (DDL scripts, Schema files) | • Program logic (Python code, SQL queries) | • Network addresses (IPs, DNS, VPCs) | • User identities (Service accounts, API keys) |flow | Rule specification |
 
 ### Framework Application Example
 - **Data (What) Column:** Tracks data evolution from business concepts → physical implementation
