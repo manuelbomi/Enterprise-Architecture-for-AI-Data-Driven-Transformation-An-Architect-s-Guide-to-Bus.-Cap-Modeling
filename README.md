@@ -503,6 +503,32 @@ Most critical capabilities for AI value flow:
 #### The Principal Enterprise Architect specializing in data, analytics, and AI must therefore master both the conceptual framework of capability modeling and the practical realities of modern ML systems. This dual expertise enables the creation of adaptive enterprise architectures that can evolve with both technological innovation and business strategy, positioning the organization not just to adopt AI, but to institutionalize it as a sustained competitive advantage.
 
 
+---
+
+
+
+
+
+### Thank you for reading
+---
+
+### **AUTHOR'S BACKGROUND**
+### Author's Name:  Emmanuel Oyekanlu
+```
+Skillset:   I have experience spanning several years in data science, developing scalable enterprise data pipelines,
+enterprise solution architecture, architecting enterprise systems data and AI applications,
+software and AI solution design and deployments, data engineering, high performance computing (GPU, CUDA), machine learning,
+NLP, Agentic-AI and LLM applications as well as deploying scalable solutions (apps) on-prem and in the cloud.
+
+I can be reached through: manuelbomi@yahoo.com
+
+Website:  http://emmanueloyekanlu.com/
+Publications:  https://scholar.google.com/citations?user=S-jTMfkAAAAJ&hl=en
+LinkedIn:  https://www.linkedin.com/in/emmanuel-oyekanlu-6ba98616
+Github:  https://github.com/manuelbomi
+
+```
+[![Icons](https://skillicons.dev/icons?i=aws,azure,gcp,scala,mongodb,redis,cassandra,kafka,anaconda,matlab,nodejs,django,py,c,anaconda,git,github,mysql,docker,kubernetes&theme=dark)](https://skillicons.dev)
 
 
 
