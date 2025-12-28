@@ -307,7 +307,7 @@ Expected ROI: $8.7M annually from reduced downtime
 | **3-Year TCO** | **$6.5M** | **$9.8M** | **+$3.3M saved**  | **50% higher TCO without EA** |
 | **Business Value Generated** | **$22.4M** | **$14.1M** | **+$8.3M value**  | **59% more value with EA** |
 
-## Key Financial Metrics
+#### Key Financial Metrics
 - **TCO Reduction:** 34% lower total cost over 3 years
 - **ROI (EA-Guided):** ($22.4M - $6.5M) / $6.5M = **245%**
 - **ROI (Ad-Hoc):** ($14.1M - $9.8M) / $9.8M = **44%**
@@ -316,74 +316,28 @@ Expected ROI: $8.7M annually from reduced downtime
 - **Payback Period (EA):** 1.7 years
 - **Payback Period (Ad-Hoc):** 2.3 years
 
-
-
-
-# Enterprise Architecture: Comprehensive TCO Analysis
-
-## Three-Year Financial Comparison
-
-| Financial Metric | EA-Guided Approach | Ad-Hoc Approach | Difference | Percentage |
-|------------------|--------------------|-----------------|------------|------------|
-| **Initial Capital** | $3.2M | $2.1M | -$1.1M | +52% higher |
-| **Operational Costs** | | | | |
-| • Year 1 | $1.1M | $1.8M | +$0.7M saved | -39% |
-| • Year 2 | $1.3M | $3.2M | +$1.9M saved | -59% |
-| • Year 3 | $0.9M | $2.7M | +$1.8M saved | -67% |
-| **Total 3-Year TCO** | **$6.5M** | **$9.8M** | **+$3.3M saved** | **-34%** |
-| **Business Value Generated** | **$22.4M** | **$14.1M** | **+$8.3M value** | **+59%** |
-
-## Investment Profile Analysis
-
-### EA-Guided Approach
-
-
-
-## Key Insights
+#### Key Insights
 1. **Strategic Investment:** EA requires higher upfront investment but delivers compounding returns
 2. **Operational Efficiency:** Year-over-year costs decrease with EA, while they increase without
 3. **Value Generation:** EA enables 59% more business value creation
 4. **Scalability:** EA-designed systems scale at 1/3 the cost of ad-hoc approaches
 5. **Total Economic Impact:** EA delivers $11.6M more net value ($8.3M + $3.3M)
 
-Three-Year Total Cost of Ownership (TCO) Comparison:
-
-Cost Category             | EA-Guided Approach | Ad-Hoc Approach | Savings
---------------------------|--------------------|-----------------|---------
-Initial Implementation    | $3.2M              | $2.1M           | -$1.1M
-Year 1 Operations         | $1.1M              | $1.8M           | +$0.7M
-Year 2 Scale & Integrate  | $1.3M              | $3.2M           | +$1.9M
-Year 3 Enhancements       | $0.9M              | $2.7M           | +$1.8M
-3-Year TCO                | $6.5M              | $9.8M           | +$3.3M
-Business Value Generated  | $22.4M             | $14.1M          | +$8.3M
-
-# Complete Business Case & ROI Analysis
-
-## Three-Year TCO Comparison
-| Cost Category | EA-Guided Approach | Ad-Hoc Approach | Savings |
-|---------------|--------------------|-----------------|---------|
-| Initial Implementation | $3.2M | $2.1M | -$1.1M |
-| Year 1 Operations | $1.1M | $1.8M | +$0.7M |
-| Year 2 Scale & Integrate | $1.3M | $3.2M | +$1.9M |
-| Year 3 Enhancements | $0.9M | $2.7M | +$1.8M |
-| **3-Year TCO** | **$6.5M** | **$9.8M** | **+$3.3M** |
-| **Business Value** | **$22.4M** | **$14.1M** | **+$8.3M** |
-
-## Performance Metrics
+#### Performance Metrics
 | Metric | Before | After | Improvement |
 |--------|--------|-------|-------------|
 | Data Freshness | 24 hours | 5 minutes | 288x faster |
 | Processing Cost | $10,000/month | $600/month | 94% reduction |
 | Development Time | 6 months | 2 weeks | 92% faster |
 
-## Enterprise Architecture Outcomes
+#### Enterprise Architecture Outcomes
 | Outcome | Enterprise Benefit |
 |---------|-------------------|
 | Reduced duplication | Lower cost, faster delivery |
 | Clear AI governance | Trustworthy, compliant AI |
 | Faster decision-making | Reduced time-to-value |
 
-## **Summary:**
+#### **Summary:**
 - **Total 3-Year Savings:** $3.3M
 - **Additional Value Generated:** $8.3M
 - **ROI (EA-Guided):** 245%
