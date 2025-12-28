@@ -186,3 +186,46 @@
     - Real-time Decisioning Capability: Capacity to apply ML models for instant operational decisions
 
     - Autonomous Operations Capability: Self-optimizing systems requiring minimal human intervention
+ 
+
+  flowchart LR
+
+%% Foundational Capabilities
+DF[Data Foundation<br/>(Quality, Integration, Lineage)]
+DG[Data Governance<br/>(Privacy, Security, Compliance)]
+DI[Data Infrastructure<br/>(Lakes, Warehouses, Streaming)]
+
+%% Intermediate Capabilities
+FE[Feature Engineering<br/>& Data Preparation]
+MD[Model Development<br/>(ML, DL, GenAI)]
+MG[Model Governance<br/>(Bias, Explainability)]
+
+%% Advanced Capabilities
+PA[Predictive Analytics Capability]
+RT[Real-Time Decisioning Capability]
+AO[Autonomous Operations Capability]
+
+%% Operational Enablement
+MO[MLOps Automation<br/>(CI/CD, Monitoring)]
+BI[Business Integration<br/>(Process & Decision Embedding)]
+
+%% Dependency Flows
+DF --> FE
+DI --> FE
+DG --> FE
+
+FE --> MD
+DG --> MG
+MD --> MG
+
+MD --> PA
+MG --> PA
+
+PA --> RT
+MO --> RT
+BI --> RT
+
+RT --> AO
+MO --> AO
+DG --> AO
+
