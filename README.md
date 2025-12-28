@@ -294,16 +294,17 @@ Expected ROI: $8.7M annually from reduced downtime
 
 ---
 
-### 4.2 Financial Impact Analysis
+### 4.2 Financial Impact Analysis. 
+#### Three-Year Total Cost of Ownership (TCO)
 
 | Cost Category | EA-Guided Approach | Ad-Hoc Approach | Savings |
 |---------------|--------------------|-----------------|---------|
-| Initial Implementation | $3.2M | $2.1M | -$1.1M |
-| Year 1 Operations | $1.1M | $1.8M | +$0.7M |
-| Year 2 Scale & Integrate | $1.3M | $3.2M | +$1.9M |
-| Year 3 Enhancements | $0.9M | $2.7M | +$1.8M |
-| 3-Year TCO | $6.5M | $9.8M | +$3.3M |
-| Business Value Generated | $22.4M | $14.1M | +$8.3M |
+| Initial Implementation | $3.2M | $2.1M | **-$1.1M** (Higher upfront) |
+| Year 1 Operations | $1.1M | $1.8M | **+$0.7M** (Save) |
+| Year 2 Scale & Integrate | $1.3M | $3.2M | **+$1.9M** (Save) |
+| Year 3 Enhancements | $0.9M | $2.7M | **+$1.8M** (Saved)|
+| 3-Year TCO | $6.5M | $9.8M | **+$3.3M** (Saved) |
+| Business Value Generated | $22.4M | $14.1M | **+$8.3M** (additional value) |
 
 ## Three-Year Total Cost of Ownership (TCO) Comparison
 
