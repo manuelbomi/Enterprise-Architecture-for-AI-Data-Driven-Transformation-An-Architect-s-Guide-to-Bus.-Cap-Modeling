@@ -102,6 +102,7 @@
 
 ##### ArchiMate's layered approach enables clear visualization of how business capabilities translate to technical implementation:
 
+```python
 
 [Business Layer] AI-Powered Customer Insights Capability
     ↓
@@ -112,3 +113,5 @@
 [Physical Layer] Cloud Region · Data Center · Edge Devices
 
 *Figure 3: ArchiMate visualization connecting business capabilities to AI/ML implementation components*
+
+```
