@@ -37,6 +37,60 @@
 
 ##### The TOGAF Architecture Development Method (ADM) provides a proven cyclical framework that can be specifically adapted for data and AI transformation programs:
 
+##### <ins>AI-enhanced ADM different from classical TOGAF</ins>:
+
+##### <ins>Preliminary Phase</ins>
+
+- Explicitly defines AI ambition, ethical boundaries, data domains, and scope
+
+- Establishes AI operating model and funding guardrails
+
+##### <ins> Phase A – Architecture Vision (AI)</ins>
+
+- Business value hypotheses for AI
+
+- Target AI outcomes (automation, prediction, personalization)
+
+##### <ins> Phase B – Business Architecture (AI)</ins>
+
+- AI-enabled business capability modeling
+
+- Mapping AI use cases to value streams
+
+##### <ins> Phase C – Information Systems (Data-centric)</ins>
+
+- Data architecture, feature stores, analytics platforms
+
+- Model inputs, outputs, and data lineage
+
+##### <ins> Phase D – Technology Architecture</ins>
+
+- Cloud platforms, ML platforms, GPU/compute, integration layers
+
+##### <ins> E – Opportunities & Solutions
+
+- AI use case portfolio
+
+- Reference architectures and solution building blocks
+
+##### <ins> Phase F – Migration Planning (MLOps)</ins>
+
+- Model lifecycle pipelines
+
+- Data ingestion, training, deployment, monitoring
+
+##### <ins> Phase G – Implementation Governance</ins>
+
+- Model Factory
+
+- CI/CD for ML, policy enforcement, responsible AI checks
+
+##### <ins> Phase H – Architecture Change Management</ins>
+
+- Continuous learning systems
+
+- Model drift management, regulatory updates, feedback loops
+
 ```python
 flowchart LR
 
