@@ -115,3 +115,21 @@
 *Figure 3: ArchiMate visualization connecting business capabilities to AI/ML implementation components*
 
 ```
+
+*Figure 3: ArchiMate visualization connecting business capabilities to AI/ML implementation components*
+
+---
+
+### 2.3 Zachman Framework Applied to ML Systems
+
+##### The Zachman Framework's intersection of perspectives (What, How, Where, Who, When, Why) and abstractions (Scope, Business, System, Technology, Detailed, Functioning) provides comprehensive documentation for complex ML systems:
+
+| Perspective | Data (What) | Function (How) | Network (Where) | People (Who) | Time (When) | Motivation (Why) |
+|-------------|-------------|----------------|-----------------|--------------|-------------|------------------|
+| Scope (Planner) | Business entities for prediction | ML use cases | Organizational scope | Stakeholders | Business events | Business objectives |
+| Business (Owner) | Conceptual data model | Business processes | Business locations | Business roles | Business schedule | Business strategy |
+| System (Designer) | Logical data model | Application functions | System topology | System roles | Processing cycle | System requirements |
+| Technology (Builder) | Physical data model | Technology functions | Platform deployment | Technology roles | Execution timing | Technical specifications |
+| Detailed (Subcontractor) | Data definition | Program logic | Network addresses | User identities | Control flow | Rule specification |
+
+
