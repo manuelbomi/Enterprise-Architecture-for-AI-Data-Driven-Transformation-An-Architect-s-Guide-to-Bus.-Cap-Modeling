@@ -124,26 +124,7 @@
 
 ##### The Zachman Framework's intersection of perspectives (What, How, Where, Who, When, Why) and abstractions (Scope, Business, System, Technology, Detailed, Functioning) provides comprehensive documentation for complex ML systems:
 
-#### Zachman Framework Matrix for Enterprise Architecture
-
-| Row | Perspective | Data (What) | Function (How) | Network (Where) | People (Who) | Time (When) | Motivation (Why) |
-|-----|-------------|-------------|----------------|-----------------|--------------|-------------|------------------|
-| 1 | **Scope (Planner)**<br>*Contextual* | Business entities for prediction | ML use cases | Organizational scope | Stakeholders | Business events | Business objectives |
-| 2 | **Business (Owner)**<br>*Conceptual* | Conceptual data model | Business processes | Business locations | Business roles | Business schedule | Business strategy |
-| 3 | **System (Designer)**<br>*Logical* | Logical data model | Application functions | System topology | System roles | Processing cycle | System requirements |
-| 4 | **Technology (Builder)**<br>*Physical* | Physical data model | Technology functions | Platform deployment | Technology roles | Execution timing | Technical specifications |
-| 5 | **Detailed (Subcontractor)**<br>*As-Built* | Data definition | Program logic | Network addresses | User identities | Control flow | Rule specification |
-| 6 | **Functioning Enterprise**<br>*Instance* | Actual data | Actual processes | Actual locations | Actual people | Actual times | Actual reasons |
-
-## Framework Principles
-1. **Comprehensive:** Covers all aspects of enterprise architecture
-2. **Multi-perspective:** Addresses different stakeholder viewpoints
-3. **Abstraction layers:** From contextual to detailed implementation
-4. **Interrelated:** All cells must be consistent and aligned
-
-#### Zachman Framework Applied to AI/Data Platform
-
-### Enterprise Architecture Framework
+#### Zachman Framework for Enterprise Architecture (Applied to AI/Data Platform)
 
 | Perspective | Data (What)<br>*(AI/Data Context)* | Function (How)<br>*(AI/Data Context)* | Network (Where)<br>*(AI/Data Context)* | People (Who)<br>*(AI/Data Context)* |Time (When) | Motivation (Why) |
 |-------------|-------------------------------------|---------------------------------------|----------------------------------------|-------------------------------------|-------------|------------------|
@@ -160,4 +141,27 @@
 - **Network (Where) Column:** Maps from organizational scope → cloud infrastructure
 - **People (Who) Column:** Identifies stakeholders → system users → technical identities
 
+---
 
+## 3. The Four-Phase Business Capability Modeling Methodology for AI/Data Initiatives
+
+#### <ins>Phase 1</ins>: Strategic Assessment & AI Opportunity Mapping
+
+#### Activities:
+
+- Conduct stakeholder workshops across business, data science, and IT domains
+
+- Analyze competitive landscape for AI/ML adoption patterns
+
+- Assess current data maturity and infrastructure readiness
+
+- Identify regulatory and ethical constraints for AI deployment
+
+- Define AI ambition levels (Descriptive → Predictive → Prescriptive → Autonomous)
+
+<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/d030784c-20c4-4788-aacb-4a36273bcfb6" />
+
+*Figure 4: Quantitative gap analysis for AI capabilities*
+
+> [!NOTE]
+> Please check the repository for the Python cod efor the Gap analysis
