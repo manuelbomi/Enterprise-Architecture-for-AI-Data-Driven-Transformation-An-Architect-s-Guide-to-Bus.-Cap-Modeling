@@ -152,6 +152,7 @@
 | **System**<br>(Designer) | • Logical data models (Normalized schemas) | • Application functions (APIs, Services, ML pipelines) | • System topology (Clusters, Zones, Regions) | • System roles (Service accounts, API users) | Processing cycle | System requirements |
 | **Technology**<br>(Builder) | • Physical data models (Tables, Columns, Indexes) | • Technology functions (Spark jobs, dbt models, API endpoints) | • Platform deployment (AWS, Azure, Databricks) | • Technology roles (IAM roles, Service principals) |Execution timing | Technical specifications |
 | **Detailed**<br>(Subcontractor) | • Data definitions (DDL scripts, Schema files) | • Program logic (Python code, SQL queries) | • Network addresses (IPs, DNS, VPCs) | • User identities (Service accounts, API keys) |flow | Rule specification |
+| **Functioning Enterprise**<br>*Instance* | Actual data | Actual processes | Actual locations | Actual people | Actual times | Actual reasons |
 
 ### Framework Application Example
 - **Data (What) Column:** Tracks data evolution from business concepts → physical implementation
