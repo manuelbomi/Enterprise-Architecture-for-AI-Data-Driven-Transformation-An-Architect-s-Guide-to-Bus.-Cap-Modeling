@@ -296,28 +296,16 @@ Expected ROI: $8.7M annually from reduced downtime
 
 ### 4.2 Financial Impact Analysis. 
 #### Three-Year Total Cost of Ownership (TCO)
-
-| Cost Category | EA-Guided Approach | Ad-Hoc Approach | Savings (EA Advantage) |
-|---------------|--------------------|-----------------|------------------------|
-| **Initial Implementation** | $3.2M | $2.1M | **-$1.1M** (Higher upfront) |
-| **Year 1 Operations** | $1.1M | $1.8M | **+$0.7M** saved |
-| **Year 2 Scale & Integrate** | $1.3M | $3.2M | **+$1.9M** saved |
-| **Year 3 Enhancements** | $0.9M | $2.7M | **+$1.8M** saved |
-| **3-Year TCO** | **$6.5M** | **$9.8M** | **+$3.3M saved** |
-| **Business Value Generated** | **$22.4M** | **$14.1M** | **+$8.3M additional value** |
-
-# Enterprise Architecture: Three-Year TCO Analysis
-
-## Financial Comparison: EA-Guided vs Ad-Hoc Approach
+## ## Financial Comparison: EA-Guided vs Ad-Hoc Approach
 
 | Category | EA-Guided Approach | Ad-Hoc Approach | EA Advantage | Impact |
 |----------|--------------------|-----------------|--------------|--------|
-| **Upfront Investment** | $3.2M | $2.1M | **-$1.1M** ⬆️ | Higher initial cost |
-| **Year 1: Operations** | $1.1M | $1.8M | **+$0.7M** ✅ | Operational efficiency |
-| **Year 2: Scaling** | $1.3M | $3.2M | **+$1.9M** ✅ | Scalability benefits |
-| **Year 3: Enhancements** | $0.9M | $2.7M | **+$1.8M** ✅ | Lower enhancement costs |
-| **📊 3-Year TCO** | **$6.5M** | **$9.8M** | **+$3.3M saved** 🎯 | **50% higher TCO without EA** |
-| **💼 Business Value** | **$22.4M** | **$14.1M** | **+$8.3M value** 🚀 | **59% more value with EA** |
+| **Upfront Investment** | $3.2M | $2.1M | **-$1.1M**  | Higher initial cost |
+| **Year 1: Operations** | $1.1M | $1.8M | **+$0.7M**  | Operational efficiency |
+| **Year 2: Scaling** | $1.3M | $3.2M | **+$1.9M**  | Scalability benefits |
+| **Year 3: Enhancements** | $0.9M | $2.7M | **+$1.8M**  | Lower enhancement costs |
+| **3-Year TCO** | **$6.5M** | **$9.8M** | **+$3.3M saved**  | **50% higher TCO without EA** |
+| **Business Value Generated** | **$22.4M** | **$14.1M** | **+$8.3M value**  | **59% more value with EA** |
 
 ## Key Financial Metrics
 - **TCO Reduction:** 34% lower total cost over 3 years
