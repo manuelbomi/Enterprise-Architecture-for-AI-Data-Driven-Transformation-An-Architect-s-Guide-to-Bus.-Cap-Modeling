@@ -509,17 +509,17 @@ Most critical capabilities for AI value flow:
 
 *The Open Group ArchiMate® Specification – Business Capability Extension*
 
-TOGAF® Series Guide: Business Capabilities
+*TOGAF® Series Guide: Business Capabilities*
 
-Google Cloud AI Adoption Framework
+*Google Cloud AI Adoption Framework*
 
-IBM Data and AI Reference Architecture
+*IBM Data and AI Reference Architecture*
 
-MLOps: Continuous Delivery for Machine Learning (Microsoft Research)
+*MLOps: Continuous Delivery for Machine Learning (Microsoft Research)*
 
-Responsible AI Practices (Google PAIR)
+*Responsible AI Practices (Google PAIR)*
 
-
+---
 
 
 
