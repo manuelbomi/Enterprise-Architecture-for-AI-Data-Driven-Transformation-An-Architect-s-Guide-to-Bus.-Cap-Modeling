@@ -124,21 +124,7 @@
 
 ##### The Zachman Framework's intersection of perspectives (What, How, Where, Who, When, Why) and abstractions (Scope, Business, System, Technology, Detailed, Functioning) provides comprehensive documentation for complex ML systems:
 
-
-
-#### Zachman Framework Matrix
-
-| Perspective | Data (What) | Function (How) | Network (Where) | People (Who) | Time (When) | Motivation (Why) |
-|-------------|-------------|----------------|-----------------|--------------|-------------|------------------|
-| **Scope (Planner)** | Business entities for prediction | ML use cases | Organizational scope | Stakeholders | Business events | Business objectives |
-| **Business (Owner)** | Conceptual data model | Business processes | Business locations | Business roles | Business schedule | Business strategy |
-| **System (Designer)** | Logical data model | Application functions | System topology | System roles | Processing cycle | System requirements |
-| **Technology (Builder)** | Physical data model | Technology functions | Platform deployment | Technology roles | Execution timing | Technical specifications |
-| **Detailed (Subcontractor)** | Data definition | Program logic | Network addresses | User identities | Control flow | Rule specification |
-
-# Zachman Framework for Enterprise Architecture
-
-## The Complete Framework Matrix
+#### Zachman Framework Matrix for Enterprise Architecture
 
 | Row | Perspective | Data (What) | Function (How) | Network (Where) | People (Who) | Time (When) | Motivation (Why) |
 |-----|-------------|-------------|----------------|-----------------|--------------|-------------|------------------|
@@ -155,7 +141,7 @@
 3. **Abstraction layers:** From contextual to detailed implementation
 4. **Interrelated:** All cells must be consistent and aligned
 
-## Zachman Framework Applied to AI/Data Platform
+#### Zachman Framework Applied to AI/Data Platform
 
 ### Enterprise Architecture Framework
 
