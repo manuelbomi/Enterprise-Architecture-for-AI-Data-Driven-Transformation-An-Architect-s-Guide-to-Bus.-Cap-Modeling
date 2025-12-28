@@ -101,3 +101,14 @@
 ### 2.2 ArchiMate® for Visualizing AI Capability Relationships
 
 ##### ArchiMate's layered approach enables clear visualization of how business capabilities translate to technical implementation:
+
+
+[Business Layer] AI-Powered Customer Insights Capability
+    ↓
+[Application Layer] Recommendation Engine · Churn Prediction Model · Personalization Service
+    ↓
+[Technology Layer] Feature Store · Model Registry · Inference Service · GPU Cluster
+    ↓
+[Physical Layer] Cloud Region · Data Center · Edge Devices
+
+*Figure 3: ArchiMate visualization connecting business capabilities to AI/ML implementation components*
