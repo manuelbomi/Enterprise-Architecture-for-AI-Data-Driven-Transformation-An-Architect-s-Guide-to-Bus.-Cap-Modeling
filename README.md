@@ -300,10 +300,10 @@ Expected ROI: $8.7M annually from reduced downtime
 
 | Category | EA-Guided Approach | Ad-Hoc Approach | EA Advantage | Impact |
 |----------|--------------------|-----------------|--------------|--------|
-| **Upfront Investment** | $3.2M | $2.1M | **-$1.1M**  | Higher initial cost |
-| **Year 1: Operations** | $1.1M | $1.8M | **+$0.7M**  | Operational efficiency |
-| **Year 2: Scaling** | $1.3M | $3.2M | **+$1.9M**  | Scalability benefits |
-| **Year 3: Enhancements** | $0.9M | $2.7M | **+$1.8M**  | Lower enhancement costs |
+| **Upfront Investment** | $3.2M | $2.1M | **-$1.1M**  | Higher initial cost (+52% higher) |
+| **Year 1: Operations** | $1.1M | $1.8M | **+$0.7M**  | Operational efficiency (-39% ) |
+| **Year 2: Scaling** | $1.3M | $3.2M | **+$1.9M**  | Scalability benefits (-59%) |
+| **Year 3: Enhancements** | $0.9M | $2.7M | **+$1.8M**  | Lower enhancement costs (-67%) |
 | **3-Year TCO** | **$6.5M** | **$9.8M** | **+$3.3M saved**  | **50% higher TCO without EA** |
 | **Business Value Generated** | **$22.4M** | **$14.1M** | **+$8.3M value**  | **59% more value with EA** |
 
