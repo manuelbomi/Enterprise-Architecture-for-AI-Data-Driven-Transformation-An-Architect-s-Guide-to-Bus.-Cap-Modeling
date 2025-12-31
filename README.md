@@ -233,7 +233,7 @@ DG --> AO
 
 ![Image](https://github.com/user-attachments/assets/bec35a46-8baa-4718-af25-c971dc8fba07)
 
-*Figure 5: Dependency visualization showing prerequisites for advanced AI capabilities*
+
 
 ---
 
