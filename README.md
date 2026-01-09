@@ -164,7 +164,7 @@
 *Figure 4: Quantitative gap analysis for AI capabilities*
 
 > [!NOTE]
-> Please check the repository for the Python cod efor the Gap analysis
+> Please check the repository for the Python code for the Gap analysis
 >
 
 ---
